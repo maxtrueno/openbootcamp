@@ -1,0 +1,20 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.fondo{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+}
+
+.imagenes{
+    display: flexbox;
+    width: 300px;
+    height: auto;
+    position: relative;
+    flex-wrap: wrap;
+}
